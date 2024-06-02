@@ -62,7 +62,7 @@ This application calculates the potential earnings from Dollar-Cost Averaging (D
 
 Below is an example of how to use the application with a CSV file downloaded from Yahoo Finance:
 
-1. Download the CSV file for `SPY` ETF from Yahoo Finance as described above.
+1. Download the CSV file for `VUAA` ETF from Yahoo Finance as described above.
 2. Run the application and select the downloaded CSV file.
 3. Enter the initial investment amount, periodic investment amount, and select the investment frequency (e.g., monthly).
 4. Use the slider to select the period for interest calculation (e.g., from January 2015 to December 2020).
